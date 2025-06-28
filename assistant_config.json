@@ -1,0 +1,26 @@
+{
+    "energy_threshold": 1500,
+    "dynamic_energy": true,
+    "pause_threshold": 0.8,
+    "listening_timeout": 15,
+    "phrase_time_limit": 10,
+    "wake_word": "jarvis",
+    "use_wake_word": true,
+    "debug_mode": true,
+    "voice_rate": 200,
+    "voice_id": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Speech\\Voices\\Tokens\\TTS_MS_EN-US_DAVID_11.0",
+    "continuous_conversation": false,
+    "max_history_length": 10,
+    "automated_tasks": {},
+    "task_shortcuts": {},
+    "user_preferences": {
+        "default_browser": "chrome",
+        "preferred_search_engine": "google",
+        "theme": "light",
+        "startup_apps": []
+    },
+    "recent_files": [],
+    "favorite_folders": [],
+    "clipboard_history": [],
+    "max_clipboard_items": 20
+}
